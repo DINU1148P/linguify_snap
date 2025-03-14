@@ -1,0 +1,10 @@
+{
+	"appId": "app.lovable.a73cf0f99fbe4d13a5384a7cb3d8f58d",
+	"appName": "linguify-snap",
+	"webDir": "dist",
+	"server": {
+		"url": "https://a73cf0f9-9fbe-4d13-a538-4a7cb3d8f58d.lovableproject.com?forceHideBadge=true",
+		"cleartext": true
+	},
+	"android": {}
+}
